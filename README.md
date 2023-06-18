@@ -1,2 +1,2 @@
 # galaxian
-galaxian game created in pygame
+Galaxian game
